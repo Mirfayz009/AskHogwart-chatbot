@@ -1,5 +1,9 @@
+
 # AskHogwart-chatbot
 This chatbot can answer questions about Hogwarts Summer School.
+
+You can visit my chot bot by writng Hogwartschotbot in telegram
+
 a.	Architecture overview:
  
 Data storage of chatbot that I have created is 5KB. My chatbot does not do any embedding or keyword search, because it does not uses Chat-gpt or other ai to answer. I programmed my chatbot myself it provides you with list of question and you should enter question number to get answer. I added as the last question full information about the project. Reason why I did not use ai to create chatbot because I thought using ai is illegal. If user chooses the question “Where I can follow Hogwarts Summer School?”, it directs the user to  Hogwarts Summer School  Telegram, Youtube , Instagram channel. My chatbot uses API to do this.
