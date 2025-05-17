@@ -2,7 +2,7 @@
 # AskHogwart-chatbot
 This chatbot can answer questions about Hogwarts Summer School.
 
-You can visit my chot bot by writng Hogwartschotbot in telegram
+You can visit my chat bot by writing Hogwartschotbot in telegram
 
 a.	Architecture overview:
  
