@@ -13,8 +13,10 @@ b.	Main functionalities are
 3.Start interaction with command /start
 4.Show a list of questions with command /question
 5.Provides you with extra information
+6.It is avaiable 24/7
 Limitations are 
 Do not use any embedding or keyword search
 No LLM system
 c. How you validated that answers never drift beyond the given knowledge base.
-While creating my chatbot I fully used the information from knowledge base without adding  any extra information. My chatbot does not use any Ai to answer to question. Therefore there can not be any extra details which are not given in the knowledge base.
+While creating my chatbot I fully used the information from knowledge base without adding  any extra information. My chatbot does not use any Ai to answer to question. Therefore there can not be any extra details which are not given in the knowledge base. I uploaded my code in gitignore section
+
